@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">vPay Ess</string>
+    <string name="main_activity_hearder">Andriod Development</string>
+    <string name="main_activity_head">Design - Develop - Build - Good Andriod Applications</string>
+    <string name="main_activity_button">Start App</string>
+</resources>
