@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_parent"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/color_mix"
+    tools:context=".MainActivity" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="40dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_anewbeginning"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_creativeminds"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_goinghigher"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_cute"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_goinghigher"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_summer"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_cute"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_goinghigher"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_summer"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_summer"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_cute"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_goinghigher"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_13"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_cute"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_memories"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_goinghigher"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_goinghigher"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_cute"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_memories"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_19"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_goinghigher"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_20"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_happyrock"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_21"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_cute"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_22"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_happyrock"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@android:color/holo_orange_light"
+                android:onClick="playAudoi"
+                android:tag="bensound_cute"
+                android:text="Button"
+                android:textColor="@android:color/background_light"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
